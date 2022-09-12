@@ -1,0 +1,9 @@
+{
+  "name": "imdb_bot",
+  "description": "imdb search items",
+  "repository": "https://github.com/thopDB/IMDb_bot/",
+  "keywords": ["node", "express", "bot", "torrent", "automation"],
+  "builpacks": [
+    { "url": "heroku/python" }
+  ]
+}
